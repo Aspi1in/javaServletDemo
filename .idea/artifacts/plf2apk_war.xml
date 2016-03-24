@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="plf2apk:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="plf2apk-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="plf2apk:war exploded" />
+    </root>
+  </artifact>
+</component>
